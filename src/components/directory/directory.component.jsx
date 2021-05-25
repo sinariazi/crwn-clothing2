@@ -11,32 +11,32 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'hats',
+          title: 'WIEN | 31.07.2021',
           imageUrl: 'https://firebasestorage.googleapis.com/v0/b/crwn-db-b2d79.appspot.com/o/DSC_3220.JPG?alt=media&token=73187425-9982-4c0c-a4f9-6bb96046cc06',
           id: 1,
-          linkUrl: 'hats'
+          linkUrl: ''
         },
         {
-          title: 'jackets',
+          title: 'OBERÖSTERREICH | 21.08.2021',
           imageUrl: 'https://firebasestorage.googleapis.com/v0/b/crwn-db-b2d79.appspot.com/o/DSC_8602-2.png?alt=media&token=20980153-821a-40c5-ad65-27d5c80a1d1a',
           id: 2,
           linkUrl: ''
         },
         {
-          title: 'sneakers',
+          title: 'SALZBURG | 04.09.2021',
           imageUrl: 'https://firebasestorage.googleapis.com/v0/b/crwn-db-b2d79.appspot.com/o/DSC_8754-2.png?alt=media&token=221db92f-f6f0-4953-bd6b-66aa00f14cdbhttps://i.ibb.co/0jqHpnp/sneakers.png',
           id: 3,
           linkUrl: ''
         },
         {
-          title: 'womens',
+          title: 'STEIERMARK | 25.09.2021',
           imageUrl: 'https://firebasestorage.googleapis.com/v0/b/crwn-db-b2d79.appspot.com/o/Dirt%20Run%20-%202019%20Salzburg%20-%20094.jpg?alt=media&token=b46b5cf7-264c-4259-8de2-ea5a8704201e',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
-          title: 'mens',
+          title: 'NIEDERÖSTERREICH | 16.10.2021',
           imageUrl: 'https://firebasestorage.googleapis.com/v0/b/crwn-db-b2d79.appspot.com/o/EL3A4067.jpg?alt=media&token=cf295762-5ebd-400c-8207-1462d883e4d6',
           size: 'large',
           id: 5,
